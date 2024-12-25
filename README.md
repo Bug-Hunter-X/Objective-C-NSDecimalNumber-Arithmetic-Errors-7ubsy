@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Objective-C when working with NSDecimalNumber objects. Incorrect use of arithmetic operators leads to compiler errors. The solution shows the correct way to perform arithmetic operations using the designated NSDecimalNumber methods.  This ensures accurate and safe calculations, preventing unexpected results or crashes.
